@@ -1,14 +1,4 @@
-# BookShelf - Project UTS Mobile Lanjut
-
-## Informasi Mahasiswa
-
-- Nama : Naufal Rakan Ramadhan
-- NIM : 2410501042
-- Kelas : B
-
-## Tema
-
-Tema yang dipilih adalah Tema C (BookShelf)
+# BookShelf
 
 ## Tech stack yang digunakan
 
